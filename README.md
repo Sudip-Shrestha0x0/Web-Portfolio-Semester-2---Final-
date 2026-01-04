@@ -5,8 +5,7 @@ This is my personal portfolio website showcasing my skills, experience, and work
 
 [View Live Site](https://tranquil-alpaca-3411de.netlify.app/)
 
-**[View Hi-fi Wireframe and Prototype](https://www.figma.com/design/iJeYlY2ciVI7NOXy23iVhE/Shrestha_Sudip_Hi-fi-?node-id=0-1&p=f&t=5OWfPBZDEYKIJaF3-0)
-**---
+[View Hi-fi Wireframe and Prototype](https://www.figma.com/design/iJeYlY2ciVI7NOXy23iVhE/Shrestha_Sudip_Hi-fi-?node-id=0-1&p=f&t=5OWfPBZDEYKIJaF3-0)
 
 ## Process
 The development of this portfolio followed a structured and iterative process:
